@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ran-sch
+- 👋 Hi, I’m Randi
 - 👀 I’m interested in entering the world of Business Intelligence Analytics
 - 🌱 I’m currently learning Google Sheets, SQL, Tableau, and data anyalytics
 - 💞️ I’m looking to collaborate on a new project that will allow me to showcase my skillset
